@@ -8,10 +8,10 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>smqb</groupId>
-	<artifactId>PackageTracker</artifactId>
+	<groupId>com.smqb</groupId>
+	<artifactId>ptracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PackageTracker</name>
+	<name>Package tracker</name>
 	<description>Package tracker application</description>
 	<properties>
 		<java.version>17</java.version>
